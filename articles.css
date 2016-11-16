@@ -1,4 +1,18 @@
 /****************
+OVERALL FORMATTING
+*****************/
+header {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+body footer {
+	text-align: right;
+}
+/****************
 ARTICLE 1
 *****************/
 
